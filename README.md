@@ -27,3 +27,17 @@ The next step was to analyze data for earthquakes. Two datasets were used; one w
 
 ![image](https://user-images.githubusercontent.com/77365987/164565042-d9578434-e2cc-4958-8eed-b0b19429a768.png)
 ![image](https://user-images.githubusercontent.com/77365987/164565054-8e38b5f9-e250-401b-a586-0b9efe30a4ad.png)
+
+3. As technology for earthquakes has progressed from 1993-2013, so have the methods for measuring magnitude. While 'ml' still remains popular, other old ones such as 'mc' have stopped being used.
+
+![image](https://user-images.githubusercontent.com/77365987/164565450-21b38615-7bc2-4a15-b4be-1944934121a0.png)
+![image](https://user-images.githubusercontent.com/77365987/164565471-4b9feb4e-c0d7-4210-be94-4fbca22a7cc1.png)
+
+4. While in Middle America, the amount of earthquakes on average has increased from 1993-2013, in some states such as California, the amount of earthquakes have decreased.
+
+![image](https://user-images.githubusercontent.com/77365987/164565574-80df4bec-ab25-4ff1-94e3-e5be9e0986ab.png)
+![image](https://user-images.githubusercontent.com/77365987/164565634-923cd4ba-2568-4e12-b771-86dc41af25a6.png)
+
+
+
+
