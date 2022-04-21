@@ -35,9 +35,26 @@ The next step was to analyze data for earthquakes. Two datasets were used; one w
 
 4. While in Middle America, the amount of earthquakes on average has increased from 1993-2013, in some states such as California, the amount of earthquakes have decreased.
 
-![image](https://user-images.githubusercontent.com/77365987/164565574-80df4bec-ab25-4ff1-94e3-e5be9e0986ab.png)
+![image](https://user-images.githubusercontent.com/77365987/164565798-ce0c08b1-69cf-47f4-a6ed-30ea4f272a6e.png)
 ![image](https://user-images.githubusercontent.com/77365987/164565634-923cd4ba-2568-4e12-b771-86dc41af25a6.png)
 
+After doing basic data analysis on all of the datasets, the question of this project can finally be answered: Does fracking cause earthquakes?
+By combining the datasets in order to make a regression plots for US states for both 2011-12 fracking operations and 2013 earthquakes, it was concluded that there is no correlation between fracking and earthquakes.
+
+![image](https://user-images.githubusercontent.com/77365987/164567838-73cd5f58-b4c9-4351-91ba-b19b8c3ade65.png)
+
+However, this doesn't yet conclude the question. Although fracking may not directly be correlated with the number of earthquakes, it could be correlated with an increase in earthquakes. So, by including the 1993 dataset in the regression plot in order to see whether earthquake growth from 1993-2013 and fracking operations were correlated, it can also be concluded that fracking does not lead to a surge in earthquakes.
+
+![image](https://user-images.githubusercontent.com/77365987/164568016-81bc3609-528c-4a60-805e-af47cdfb6d5c.png)
+
+However, this conclusion was made based on earthquakes with a magnitude of 2.5 and above. Although fracking may not cause earthquakes with these magnitudes, it may cause earthquakes with a very small magnitude (0-1). So, the earthquake dataset was modified to only include information on earthquakes from 1993 and 2013 that were between a 0 and 1 magnitude. 
+
+From there, a map was made showcasing the amount of minor earthquakes within each state. Based on the map, it is clear that fracking is not the cause of minor earthquakes, as for the majority of states with a high amount of fracking operations, there were no recorded minor earthquakes.
+
+![image](https://user-images.githubusercontent.com/77365987/164568265-659895a1-3695-4bf0-88fd-ce4c90d84cf8.png)
+![image](https://user-images.githubusercontent.com/77365987/164568293-7a5c1962-78ca-41e4-9c62-2a4ee526be34.png)
+
+In conclusion, there is no correlation between fracking and earthquakes(even minor ones). Although fracking causes other environmental issues, the notion that fracking causes harmful earthquakes is misleading. 
 
 
 
