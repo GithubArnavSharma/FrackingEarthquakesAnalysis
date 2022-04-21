@@ -8,7 +8,7 @@ As a starting point to the project, basic data analysis was conducted on data of
  
 ![image](https://user-images.githubusercontent.com/77365987/164563725-80a8a4c7-591f-40dd-8601-b8bedd3eec81.png)
 
-2. Some fracking companies are much bigger than others, and do much more operations. The top 5% of fracking corporations do more than 50% of operations.
+2. Some fracking companies are much bigger than others, and do much more operations. The top 5% of fracking corporations do more than 50% of total operations.
  
 ![image](https://user-images.githubusercontent.com/77365987/164563837-4ec6f59b-f8bc-42cf-b172-f4aefd1b5cd9.png)
 
@@ -16,7 +16,7 @@ As a starting point to the project, basic data analysis was conducted on data of
  
 ![image](https://user-images.githubusercontent.com/77365987/164564053-4d7ba4eb-13b6-48b6-bc51-7a5c35498397.png)
 
-The next step was to analyze data for earthquakes. Two datasets were used; one was information of all 2.5+ magnitude earthquakes in 2013, and the other was the same except for the earthquakes taking place in 1993. From there, it was concluded that:
+The next step was to analyze data for earthquakes. Two datasets were used; one held information of all 2.5+ magnitude earthquakes in 2013, and the other held info for all 2.5+ magnitude earthquakes in 1993. From there, it was concluded that:
 
 1. There is little correlation between the depth of an earthquake and its magnitude. Furthermore, only a handful of earthquakes are explosions, rock burst, etc.. Both of these statements have not changed from 1993 to 2013.
  
@@ -38,8 +38,8 @@ The next step was to analyze data for earthquakes. Two datasets were used; one w
 ![image](https://user-images.githubusercontent.com/77365987/164565798-ce0c08b1-69cf-47f4-a6ed-30ea4f272a6e.png)
 ![image](https://user-images.githubusercontent.com/77365987/164565634-923cd4ba-2568-4e12-b771-86dc41af25a6.png)
 
-After doing basic data analysis on all of the datasets, the question of this project can finally be answered: Does fracking cause earthquakes?
-By combining the datasets in order to make a regression plots for US states for both 2011-12 fracking operations and 2013 earthquakes, it was concluded that there is no correlation between fracking and earthquakes.
+After doing basic data analysis on all of the datasets, the question of this project can finally start being answered: Does fracking cause earthquakes?
+By combining the datasets in order to make a regression plot for US states for both 2011-12 fracking operations and 2013 earthquakes, it was concluded that there is no correlation between fracking and earthquakes.
 
 ![image](https://user-images.githubusercontent.com/77365987/164567838-73cd5f58-b4c9-4351-91ba-b19b8c3ade65.png)
 
